@@ -2,7 +2,7 @@
 
 ## prerequisites
 1. Have Golang installed on your system, and in your `$PATH`
-2. Get API keys for [Open Weather Maps][https://openweathermap.org/] and [Weather Underground][https://www.wunderground.com/]
+2. Get API keys for [Open Weather Maps](https://openweathermap.org/) and [Weather Underground](https://www.wunderground.com/)
 
 ## building
 1. Once you have set your respective API keys
