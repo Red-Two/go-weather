@@ -11,7 +11,7 @@
 
 ## endpoint
 * Try hitting these endpoints
-* `localhost:8080/weather/Rochester`
+* `curl localhost:8080/weather/Rochester`
 * `curl localhost:8080/weather/Tokyo`
 * `curl localhost:8080/weather/London`
 * `curl localhost:8080/weather/Paris`
